@@ -1,3 +1,4 @@
+# write a program to find out total height , number of students and average height in a list
 # Input a Python list of student heights
 student_heights = input().split()
 for n in range(0, len(student_heights)):
